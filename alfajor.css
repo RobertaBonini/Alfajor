@@ -14,8 +14,6 @@ body {
 }
 img {
     border-radius: 20%;
-    width: 25%;
-}
-#imagem {
-    text-align: center;
+    width: 70%;
+    padding: 5%;
 }
