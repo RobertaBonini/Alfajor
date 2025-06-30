@@ -6,9 +6,14 @@
 #geral {
     border: solid red;
 background:#f0e8c2;
+width: 60%;
+height: 60%;
+ 
+
 }
 p , ul {
+
     border: red solid;
     height: 50%;
-    width: 30%;
+    width: 50%;
 }
