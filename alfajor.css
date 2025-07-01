@@ -1,3 +1,8 @@
+:root {
+      font-family: "Alice", serif;
+      line-height: 125%;
+}
+
 body {
     background-image: url(fundo.jpeg);
     background-size: cover;
@@ -14,6 +19,39 @@ body {
 }
 img {
     border-radius: 20%;
-    width: 70%;
-    padding: 5%;
+    width: 100%
+
+}
+
+#desenho {
+ width: 50%;
+ opacity: 0.4;
+ margin-left: 30%;
+}
+
+.ingredients section {
+    width: 150%;
+    margin-bottom: 0;
+}
+
+#about {
+    padding: 4%;
+}
+
+h1 {
+    font-size: 200%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 150%;
+}
+
+h3 {
+    font-size: 140%
+}
+
+#topping {
+    margin-top: 0;
+    margin-left: 5%;
 }
