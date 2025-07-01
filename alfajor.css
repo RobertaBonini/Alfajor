@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(fundo.jpeg);
+    background-image: url(fundo.jpeg) ;
     background-size: cover;
 }
 
@@ -15,7 +15,7 @@ body {
     border-radius: 2%;
     width: 800px;
     border: solid rgb(172, 142, 96) ;
-    margin: 48px auto;
+    margin: 48px auto 60px auto;
 }
 img {
     border-radius: 20%;
@@ -54,4 +54,10 @@ h3 {
 #topping {
     margin-top: 0;
     margin-left: 5%;
+}
+
+footer{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 30px;
 }
